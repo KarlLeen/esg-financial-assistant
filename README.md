@@ -66,4 +66,14 @@ We are currently in the **data sourcing and planning** phase. Tasks include:
 - Define initial model scope and architecture
 - Set up data pipelines and begin exploratory data analysis (EDA)
 
+---
+
+## Local Setup Guide
+
+For users who want to work on the project locally, please refer to the following documents:
+
+- [Local Python Environment Setup](docs/setup/local_environment.md): Instructions on creating a virtual environment, installing dependencies, and activating the environment.
+- [Visual Studio Code Setup](docs/setup/vscode_setup.md): Recommended extensions and settings for working on the project.
+- [Git Workflow Cheatsheet](docs/setup/git_workflow.md): Basic commands for cloning the repository, creating branches, committing changes, and pushing to remote repositories.
+
 Stay tuned for updates as we move from planning to development!
